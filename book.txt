@@ -1,6 +1,14 @@
 My amazing thesis
 
+<<<<<<< HEAD
 its sooooooo cold,
 i hate winter.
 Pittsburgh is the best city ever!
 Go Steelerz
+=======
+Florida is warm, 
+but full of old people.
+New york city is the best city ever!
+
+-Kevyn Mc
+>>>>>>> sundog
